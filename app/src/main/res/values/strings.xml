@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical 5</string>
+    <string name="btn1">Follow</string>
+    <string name="btn2">Message</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_message_group">MessageGroup</string>
+    <string name="grp1Btn">Group 1</string>
+    <string name="grp2Btn">Group 2</string>
+    <string name="stringDesc">Description: </string>
+</resources>
